@@ -6,7 +6,7 @@ This repository contains case studies of companies whose multiple data analytics
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/EDA/Automatidata-Executive-Summary.png" width="700" height="700">
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
-### Company - Waze - Learning Python - EDA</span>
+### [Company - Waze - Learning Python - EDA](https://github.com/ShreevaniRao/Case-Studies/blob/main/EDA/Waze%20project.ipynb)
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/EDA/Learning Python -Waze (EDA).png" width="900" height="600">
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
