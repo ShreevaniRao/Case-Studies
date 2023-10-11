@@ -6,7 +6,7 @@ This repository contains case studies of companies whose multiple data analytics
 
 **-----------------------------------------------------------------------------------------------------------------------------------------------------**
 ### Company - Waze - Learning Python - EDA</span>
-
+<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/EDA/Automatidata-Executive-Summary.png" width="700" height="700">
 **-----------------------------------------------------------------------------------------------------------------------------------------------------**
 ### Company - TikTok - Power of Statistics - Hypothesis Testing</span>
 
