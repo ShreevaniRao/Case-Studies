@@ -16,4 +16,4 @@ This repository contains case studies of companies whose multiple data analytics
 
 **-----------------------------------------------------------------------------------------------------------------------------------------------------**
 ### Company - TikTok - Data Modeling - Logistic Regression</span>
-<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Data Modeling/TikTok-LogisticRegression.png" width="800" height="600">
+<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Data Modeling/TikTok-LogisticRegression.png" width="900" height="600">
