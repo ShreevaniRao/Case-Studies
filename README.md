@@ -16,5 +16,5 @@ This repository contains case studies of companies whose multiple data analytics
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Statistics/Statistics -Hypothesis Testing- TikTok.png" width="800" height="600">
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
-### [Company - TikTok - Data Modeling - Logistic Regression](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/TikTok%20project-LogisticRegression.ipynb)
+### [Company - TikTok - Machine Learning - Logistic Regression](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/TikTok%20project-LogisticRegression.ipynb)
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine Learning/TikTok-LogisticRegression.png" width="900" height="600">
