@@ -24,3 +24,8 @@ The current project at TikTok is reaching its midpoint; a project proposal, Pyth
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/TikTok_image.png" width="400" height="100">
 ### [Company - TikTok - Machine Learning - Logistic Regression](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/TikTok%20project-LogisticRegression.ipynb)
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine Learning/TikTok-LogisticRegression.png" width="900" height="600">
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------**
+<img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/nba.png" width="350" height="150">
+### [Company - NBA - Machine Learning - Feature Engineering](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/Perform feature engineering.ipynb)
+
