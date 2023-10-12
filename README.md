@@ -27,5 +27,5 @@ The current project at TikTok is reaching its midpoint; a project proposal, Pyth
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------**
 <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/nba.png" width="350" height="150">
-### [Company - NBA - Machine Learning - Feature Engineering](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/Perform feature engineering.ipynb)
+### [Company - NBA - Machine Learning - Feature Engineering](https://github.com/ShreevaniRao/Case-Studies/blob/main/Machine%20Learning/Perform%20feature%20engineering.ipynb)
 
