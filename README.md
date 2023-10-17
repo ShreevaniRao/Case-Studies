@@ -1,5 +1,5 @@
 # Case-Studies
-This repository contains case studies of companies whose multiple data analytics/science tasks have been studied and attempted using Python, its multiple libraries, packages & Tableau
+This repository contains case studies of companies whose multiple data analytics/science tasks have been studied and attempted using Python, its multiple libraries, packages & Tableau. Click the Company link to navigate to the Python notebook.
 
 <picture>
   <img src="https://github.com/ShreevaniRao/Case-Studies/blob/main/Automatidata_image.png" width="400" height="100">
