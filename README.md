@@ -1,4 +1,5 @@
-# Case-Studies
+**Case-Studies**
+
 This repository contains case studies of companies whose multiple data analytics/science tasks have been studied and attempted using Python, its multiple libraries, packages & Tableau. Click the Company link to navigate to the Python notebook.
 
 <picture>
